@@ -1,0 +1,15 @@
+const names = require("./3-names");
+// Destructuring
+// const { ana } = require('./3-names');
+
+const sayHi = require("./4-utils");
+
+const data = require("./6-alternative-flavor");
+require("./7-mind-grenades");
+// console.log(data);
+// console.log(module);
+// console.log(names);
+
+// sayHi('John');
+// sayHi(names.ana);
+// sayHi(names.bob);
