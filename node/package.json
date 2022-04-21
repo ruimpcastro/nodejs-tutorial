@@ -2,7 +2,7 @@
   "name": "node",
   "version": "1.0.0",
   "description": "",
-  "main": "1-2-introAndGlobals.js",
+  "main": "17-http-stream.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
