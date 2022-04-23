@@ -16,3 +16,9 @@ Based on this repo: https://github.com/john-smilga/node-express-course
 * npm init -y
 * npm i < package name > -D 
 * npm uninstall < package name >
+
+### NodeJS documentation
+https://nodejs.org/docs/latest-v16.x/api/index.html
+
+### ExpressJS documentation
+https://expressjs.com
